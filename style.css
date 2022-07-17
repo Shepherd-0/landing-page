@@ -1,0 +1,47 @@
+.section{
+    text-align: center;
+}
+
+
+
+/* Header CSS Properties */
+.header{
+    display: flex;
+    flex: 1;
+}
+.header div{
+    text-align: right;
+}
+.title{
+    text-align: center;
+}
+
+/* Link Section */
+
+/* Music Video Section */
+
+
+.vidflexone{
+    display: flex;
+    justify-content: center;  
+}
+
+.vidflexone div{
+    margin: 50px;
+    border: 20px;
+    height: 100px;
+    
+}
+
+.vidflextwo{
+    display: flex; 
+    margin-top: 200px;
+    justify-content: center; 
+}
+
+.vidflextwo div{
+    margin: 50px;
+    border: 20px;
+    height: 100px;
+    margin-bottom: 20px;
+}
